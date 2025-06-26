@@ -26,7 +26,7 @@ ai-quantum-snowflake-starter/
 ├── docs/                   # User guides
 └── .github/workflows/      # Deployment automation
 
-## 🎓 Built by Snowflake-Certified Quantum Data Architect
+## 🎓 Built by Data Professional Learning Quantum Computing
 
 These templates combine:
 - **Real certification-level database expertise**
